@@ -40,8 +40,7 @@ img {
     display: flex;
     width: 100vw;
     justify-content: space-between;
-    gap: 5em;
-    margin: 3em;
+    margin: 2em;
     top: 40%;
   }
 
