@@ -38,9 +38,10 @@ img {
     bottom: 0;
     left: 0;
     display: flex;
+    width: 100vw;
     justify-content: space-between;
-    gap: 20em;
-    margin: 6em;
+    gap: 5em;
+    margin: 3em;
     top: 40%;
   }
 
